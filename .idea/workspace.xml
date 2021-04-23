@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a49de8f-2314-4922-adac-34819877816f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,8 +38,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.barberini.chucknorrisjokes.services" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Java\Spring Initializr\chuck-norris-jokes" />
     </key>
@@ -63,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619103221425</updated>
       <workItem from="1619103224515" duration="397000" />
-      <workItem from="1619165158134" duration="1196000" />
+      <workItem from="1619165158134" duration="2146000" />
     </task>
     <task id="LOCAL-00001" summary="Created Spring Boot Application. closes #1">
       <created>1619167335372</created>
@@ -79,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619167405292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created Spring Boot Application. Closes #1">
+      <created>1619167928049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619167928049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Chuck Norris Dependency. Closes #2">
+      <created>1619167976199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619167976199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Spring Boot Application. closes #1" />
     <MESSAGE value="Created Spring Boot Application. Closes #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Spring Boot Application. Closes #1" />
+    <MESSAGE value="Added Chuck Norris Dependency. Closes #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Chuck Norris Dependency. Closes #2" />
   </component>
 </project>
