@@ -1,6 +1,6 @@
 package org.barberini.chucknorrisjokes.services;
 
-public interface JokesServices {
+public interface JokesService {
 
     String getJoke();
 

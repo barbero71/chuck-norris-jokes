@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a49de8f-2314-4922-adac-34819877816f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/controllers/JokesController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/barberini/chucknorrisjokes/services/JokesServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,6 @@
   </component>
   <component name="ProjectId" id="1rWsXiokv3YnWIxOyxIOZWY0s4t" />
   <component name="ProjectViewState">
-    <option name="abbreviatePackageNames" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -79,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619103221425</updated>
       <workItem from="1619103224515" duration="397000" />
-      <workItem from="1619165158134" duration="2146000" />
+      <workItem from="1619165158134" duration="3449000" />
     </task>
     <task id="LOCAL-00001" summary="Created Spring Boot Application. closes #1">
       <created>1619167335372</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619167976199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Joke Service Implementation. Closes #3">
+      <created>1619168833104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619168833104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +125,7 @@
     <MESSAGE value="Created Spring Boot Application. closes #1" />
     <MESSAGE value="Created Spring Boot Application. Closes #1" />
     <MESSAGE value="Added Chuck Norris Dependency. Closes #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Chuck Norris Dependency. Closes #2" />
+    <MESSAGE value="Added Joke Service Implementation. Closes #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Joke Service Implementation. Closes #3" />
   </component>
 </project>
